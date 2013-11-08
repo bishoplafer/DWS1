@@ -6,27 +6,57 @@ body {
 	margin: 15px;
 }
 
+/* Body Title */
 #title {
-	font-size: 48px;
-	color: #ffffff;
+	font-size: 5.5em;
+	font-weight: bold;
+	letter-spacing: .2em;
+	text-align: center;
+	color: white;
 }
 
-#artElements {
-	background-color: #34777D;
+#nav {
+	background-color: #68F1FD;
+	word-spacing: 2em;
+	text-align: center;
+	padding: 5px;
+}
+
+/* Div content is wrapped in */
+#principles {
+	/* I used the Adobe Kuler app on my iPad to get the color scheme and just played around with this color until I found somehting I liked */
+	background-color: hsla(400, 80%, 50%, .8);
 	padding: 20px;
 	margin: 15px;
 }
 
-#artElements p{
-	color: white;
-
-}
-
-#artElements ul{
+/* Unordered lists in div */
+#principles ul{
 	background-color: #5ED8E4;
 	padding: 5px;
+	color: rgb(25,59,62);
+
 }
 
-#subTitle {
-	color: #ffffff;
+/* ordered lists in div */
+#principles ol{
+	background-color: #FAF4D7;
+	margin: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
 }
+
+/* h1 elements in div */
+#principles h1{
+	background-color: white;
+	padding: 10px;
+}
+
+/* h2 elements in div */
+#principles h2{
+	background-color: #FAF4D7;
+	padding: 5px;
+	margin: 5px;
+}
+
