@@ -6,19 +6,22 @@ body {
 	margin: 15px;
 }
 
+/* Body Title */
 #title {
 	font-size: 48px;
 	color: white;
 }
 
+/* Div content is wrapped in */
 #artElements {
-	background-color: #4EB4BD;
+	/* I used the Adobe Kuler app on my iPad to get the color scheme and just played around with this color until I found somehting I liked */
+	background-color: hsla(400, 80%, 50%, .8);
 	padding: 20px;
 	margin: 15px;
 	stroke: 1px;
 }
 
-
+/* Unordered lists in div */
 #artElements ul{
 	background-color: #5ED8E4;
 	padding: 5px;
@@ -26,11 +29,13 @@ body {
 
 }
 
+/* h1 elements in div */
 #artElements h1{
 	background-color: white;
 	padding: 10px;
 }
 
+/* h2 elements in div */
 #artElements h2{
 	background-color: #FAF4D7;
 	padding: 5px;
