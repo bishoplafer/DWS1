@@ -1,0 +1,38 @@
+/*-------- Body --------*/
+body {
+	background-color: #68F1FD;
+	font-family: sans-serif;
+	padding: 20px;
+	margin: 15px;
+}
+
+#title {
+	font-size: 48px;
+	color: white;
+}
+
+#artElements {
+	background-color: #4EB4BD;
+	padding: 20px;
+	margin: 15px;
+	stroke: 1px;
+}
+
+
+#artElements ul{
+	background-color: #5ED8E4;
+	padding: 5px;
+	color: rgb(25,59,62);
+
+}
+
+#artElements h1{
+	background-color: white;
+	padding: 10px;
+}
+
+#artElements h2{
+	background-color: #FAF4D7;
+	padding: 5px;
+	margin: 5px;
+}
