@@ -8,10 +8,13 @@ body {
 
 /* Body Title */
 #title {
+	font-family: 'Share Tech', sans-serif;
 	font-size: 5.5em;
 	font-weight: bold;
 	letter-spacing: .2em;
 	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 0.1em 0.1em #333;
 	color: white;
 }
 
@@ -20,6 +23,10 @@ body {
 	word-spacing: 2em;
 	text-align: center;
 	padding: 5px;
+}
+
+#nav a {
+
 }
 
 /* Div content is wrapped in */
