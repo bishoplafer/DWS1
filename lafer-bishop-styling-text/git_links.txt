@@ -1,0 +1,6 @@
+Github Repo
+http://github.com/bishoplafer/DWS1/tree/gh-pages/lafer-bishop-styling-text
+
+gh-pages
+http://bishoplafer.github.io/DWS1/lafer-bishop-styling-text/styling-text.html
+

@@ -18,6 +18,7 @@ body {
 	color: white;
 }
 
+/* navigation styles */
 #nav {
 	background-color: #68F1FD;
 	word-spacing: 2em;
@@ -25,8 +26,24 @@ body {
 	padding: 5px;
 }
 
-#nav a {
+/* link styles */
+#nav a:link {
+	font-family: 'Share Tech', sans-serif;
+	color: #000000;
+}
 
+#nav a:visited{
+	color: black;
+}
+
+#nav a:hover{
+	background-color: #FAF4D7;
+	color: black;
+}
+
+#nav a:active{
+	background-color: #FAF4D7;
+	color: white;
 }
 
 /* Div content is wrapped in */
@@ -58,6 +75,7 @@ body {
 #principles h1{
 	background-color: white;
 	padding: 10px;
+	line-height: 95%;
 }
 
 /* h2 elements in div */
