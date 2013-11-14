@@ -186,3 +186,27 @@ body {
 	background-color: #FAF4D7;
 	color: white;
 }
+
+#harmony, #bal, #hier, #sca{
+	width: 31.3%;
+	height: 31.3%;
+	float: left;
+	margin: 1%;
+	overflow: scroll;
+}
+
+#row2 {
+	clear: both;
+}
+
+#domin, #sim, #env {
+	width: 31.3%;
+	height: 31.3%;
+	float: left;
+	margin: 1%;
+	overflow: scroll;
+}
+
+#con {
+	clear: both;
+}
