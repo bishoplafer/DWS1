@@ -94,7 +94,7 @@ body {
 }
 
 #nav2 li{
-	display: inline-block;
+	display: inline;
 }
 
 /* Div content is wrapped in */
