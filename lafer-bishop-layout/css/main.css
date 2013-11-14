@@ -132,14 +132,13 @@ body {
 }
 
 #principles li{
-	font-size: 1.em;
+	font-size: 1em;
 }
 
 /* h1 elements in div */
 #principles h1{
 	border-radius: 5px;
 	background-color: white;
-	padding: auto;
 	line-height: 95%;
 	font: small-caps normal normal 3em 'Share Tech';
 	-moz-box-shadow: 0 0 10px #777777;
