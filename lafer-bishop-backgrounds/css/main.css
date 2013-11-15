@@ -1,8 +1,9 @@
 /*-------- Body --------*/
 body {
-	background-image: url('images/afx_skyrim.gif');
+	background-image:url('images/afx_skyrim.gif');
 	background-color: #68F1FD;
 	background-repeat: repeat;
+	background-position: top left;
 	border: 5px solid;
 	border-radius: 5px;
 	font-family: sans-serif;
