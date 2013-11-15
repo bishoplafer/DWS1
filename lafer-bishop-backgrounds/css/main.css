@@ -59,7 +59,7 @@ body {
 }
 
 #nav li{
-	display: inline;
+	display: inline-block;
 }
 
 /* nav2 for footer navigation */
@@ -97,7 +97,7 @@ body {
 }
 
 #nav2 li{
-	display: inline;
+	display: inline-block;
 }
 
 /* Div content is wrapped in */
