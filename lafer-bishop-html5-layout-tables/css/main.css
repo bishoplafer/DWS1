@@ -101,7 +101,7 @@ body {
 }
 
 /* Div content is wrapped in */
-#principles {
+#row1 {
 	/* I used the Adobe Kuler app on my iPad to get the color scheme and just played around with this color until I found somehting I liked */
 	background-color: hsla(400, 80%, 50%, .8);
 	padding: 20px;
@@ -116,7 +116,7 @@ body {
 }
 
 /* Unordered lists in div */
-#principles ul{
+#row1 ul{
 	border-radius: 5px;
 	background-color: #5ED8E4;
 	padding: 5px;
@@ -125,7 +125,7 @@ body {
 }
 
 /* ordered lists in div */
-#principles ol{
+#row1 ol{
 	border-radius: 5px;
 	background-color: #FAF4D7;
 	margin: 15px;
@@ -134,12 +134,12 @@ body {
 	padding-right: 15px;
 }
 
-#principles li{
+#row1 li{
 	font-size: 1em;
 }
 
 /* h1 elements in div */
-#principles h1{
+#row1 h1{
 	background-image:url('images/triangle_icon.gif');
 	background-color: white;
 	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* W3C */
@@ -153,7 +153,7 @@ body {
 }
 
 /* h2 elements in div */
-#principles h2{
+#row1 h2{
 	border-radius: 5px;
 	background-color: #FAF4D7;
 	padding: 5px;
