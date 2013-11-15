@@ -1,8 +1,7 @@
 /*-------- Body --------*/
 body {
-	background-image: url("images/pattern.gif");
+	background-image: url('pattern.gif');
 	background-color: #68F1FD;
-	background-position: top left;
 	background-repeat: repeat;
 	border: 5px solid;
 	border-radius: 5px;
