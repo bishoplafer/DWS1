@@ -245,5 +245,45 @@ table {
 }
 tr.even{
 	background-color: #68F1FD;
-
 }
+
+#contact {
+	width: 25%;
+	border: 1px dotted;
+	border-radius: 5px;
+}
+#contact input {
+	display: inline-block;
+	width: 90%;
+	padding: 5px;
+	margin: 5px;
+	font-size: 1em;
+	color: black;
+	border-radius: 5px;
+	text-align: left;
+	background-color: #FAF4D7;
+}
+
+#contact input:hover {
+	background-color: white;
+	border: 1px solid;
+}
+
+#contact input:focus {
+	background-color: white;
+	border: 1px solid;
+}
+
+#contact label {
+	float: left;
+	padding: 5px;
+	margin: 5px 0 5px 0;
+}
+
+#contact #submit {
+	background-color: #68F1FD;
+	text-align: center;
+	width: 25%;
+}
+
+
