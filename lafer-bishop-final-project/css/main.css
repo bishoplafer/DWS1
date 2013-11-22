@@ -1,0 +1,100 @@
+/* Body */
+body {
+	background-color: #451859;
+	font-family: 'Droid Sans Mono', sans-serif;
+	color: #F2EBBF;
+	padding: 1%;
+}
+
+header {
+	font-family: 'Days One', sans-serif;
+	font-size: 3em;
+	margin: 1% 1% 1% 1%;
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 3px 3px 5px #726F5A;
+}
+
+section {
+	background-color: #996DA2;
+	box-shadow: 3px 3px 5px #4D3752;
+	margin: 1%;
+	padding: .5% 1% .5% 1%;
+	border-radius: 5px;
+	width: 65%;
+	clear: left;
+	float: left;
+}
+
+section strong {
+	font-size: 1.25em;
+	color: #D8D2AB;
+}
+
+aside {
+	background-color: #CECDD2;
+	color: black;
+	margin: 1%;
+	padding: .5% 1% .5% 1%;
+	border-radius: 5px;
+	font-family: 'Droid Sans Mono', sans-serif;
+	clear: both;
+	float: right;
+	width: 27%;
+}
+
+form {
+	border-top: 1px solid;
+	text-align:left;
+	padding: 5px 5px 5px 5px;
+}
+
+input{
+	float: left;
+	clear: both;
+	display: block;
+	width: 50%;
+	border-radius: 5px;
+}
+
+input:hover {
+	background-color: #F2EBBF;
+	border: 1px dotted;
+}
+
+input:focus {
+	background-color: #F2EBBF;
+	border: 1px dotted;
+}
+
+#submit:hover {
+	background-color: #451859;
+	color: #F2EBBF;
+}
+
+#submit:focus {
+	background-color: #451859;
+	color: #F2EBBF;
+}
+
+label {
+	float: left;
+	clear: both;
+	display: block;
+}
+
+table {
+	clear: both;
+	width: 95%;
+	margin: auto;
+	font-size: .85em;
+	padding: 5px 5px 5px 5px;
+	text-align: right;
+	border-radius: 5px;
+	border: 1px dotted;
+	background: linear-gradient(to bottom, rgba(69,24,89,1) 0%,rgba(197,199,201,1) 50%,rgba(197,199,201,1) 53%,rgba(69,24,89,1) 100%);;
+}
+
+figcaption {
+	font-size: .6em;
+}
